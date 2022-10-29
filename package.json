@@ -1,0 +1,11 @@
+{
+  "name": "test-pratice",
+  "version": "1.0.0",
+  "description": "Unity test pratice using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jefferson Vieira França <jefferson.vieiraf@hotmail.com>",
+  "license": "ISC"
+}
